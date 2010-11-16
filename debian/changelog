@@ -1,3 +1,9 @@
+nodejs-sprintf (0.1.0-0sg1) UNRELEASED; urgency=low
+
+  * UNRELEASED
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Tue, 16 Nov 2010 17:50:43 +0000
+
 nodejs-sprintf (0.1.0-0sg0) unstable; urgency=low
 
   * Debianized
