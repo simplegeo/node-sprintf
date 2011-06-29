@@ -1,0 +1,15 @@
+Source: nodejs-JSONSelect
+Section: misc
+Priority: extra
+Uploaders: Casey Crites <casey@simplegeo.com>
+Maintainer: SimpleGeo Nerds <nerds@simplegeo.com>
+Build-Depends: cdbs,
+ debhelper (>= 7),
+Standards-Version: 3.9.1
+
+Package: nodejs-JSONSelect
+Depends: nodejs (>= 0.4.7),
+ ${misc:Depends}
+Architecture: all
+Description: CSS like selectors for JSON
+ http://github.com/lloyd/JSONSelect
