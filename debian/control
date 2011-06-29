@@ -1,4 +1,4 @@
-Source: nodejs-JSONSelect
+Source: nodejs-jsonselect
 Section: misc
 Priority: extra
 Uploaders: Casey Crites <casey@simplegeo.com>
@@ -8,7 +8,7 @@ Build-Depends: cdbs,
  nodejs-pkg-tools (>= 0.1)
 Standards-Version: 3.9.1
 
-Package: nodejs-JSONSelect
+Package: nodejs-jsonselect
 Depends: nodejs (>= 0.4.0),
  ${misc:Depends}
 Architecture: all
