@@ -1,3 +1,15 @@
+nodejs-jsonselect (0.2.1-0sg9) UNRELEASED; urgency=low
+
+  [ Casey W Crites ]
+  * Modified the >, >=, < and <= to accept values if they're both
+    strings as well as numbers.
+  * If a selector returns a single result, send back the result instead
+    of an array.
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Thu, 30 Jun 2011 19:10:28 +0000
+
 nodejs-jsonselect (0.2.1-0sg8) UNRELEASED; urgency=low
 
   * UNRELEASED
